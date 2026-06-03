@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: https://drive.google.com/file/d/1mSBSVsmbVeOt2c8a3uqBKh9ihzihgoW6/view
+        text: My CV
 
 format:
   html:

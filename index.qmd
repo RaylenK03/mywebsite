@@ -2,14 +2,12 @@
 title: "Raylen Krouse"
 about:
   template: marquee
-  image: flower-garden.jpg
+  image: flower-garden.png
   image-shape: round
-  links:
+  links: 
     - icon: github
       text: Github
       href: https://github.com
-    - href: https://drive.google.com/drive/search?q=resume
-      text: My CV
 ---
 
 Raylen Krouse is a senior student at the University of Oregon and will 
