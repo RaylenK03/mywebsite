@@ -1,7 +1,7 @@
 ---
-title: "Finley Malloc"
+title: "Raylen Krouse"
 about:
-  template: jolla
+  template: marquee
   image: profile.jpg
   links:
     - icon: bluesky
@@ -12,6 +12,10 @@ about:
       href: https://github.com
 ---
 
+Raylen Krouse is a senior student at the University of Oregon. When not 
+touring people around the Museum of Natural and Cultural History, 
+Raylen enjoys fishing, hiking, and playing guitar
+
 ## Education
 
 University of Oregon | Eugene, OR
@@ -19,6 +23,9 @@ Bachelors in Anthropology | Sept 2022 - June 2026
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Landscaper | August 2021 - September 2022
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Data Analyst | July 2022 - August 2022
+
+| Museum Interpreter | Sept 2025 - May 2026
+
