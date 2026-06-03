@@ -1,9 +1,9 @@
 ---
 title: "Raylen Krouse"
 about:
-  template: marquee
+  template: marquee      
   image: flower-garden.png
-  image-shape: round
+  image-shape: rounded 
   links: 
     - icon: github
       text: Github

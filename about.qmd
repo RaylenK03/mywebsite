@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "Portfolio" 
+about:
+  template: marquee      
+  image: Figure3_Seattle_Gi_Income.png
+  image-shape: rectangle 
 ---
 
 About this site
