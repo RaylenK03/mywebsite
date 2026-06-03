@@ -1,11 +1,24 @@
 ---
-title: "mywebsite"
+title: "Finley Malloc"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+University of Oregon | Eugene, OR
+Bachelors in Anthropology | Sept 2022 - June 2026
 
-```{r}
-1 + 1
-```
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
