@@ -2,18 +2,19 @@
 title: "Raylen Krouse"
 about:
   template: marquee
-  image: profile.jpg
+  image: flower-garden.jpg
+  image-shape: round
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app
     - icon: github
       text: Github
       href: https://github.com
+    - href: https://drive.google.com/drive/search?q=resume
+      text: My CV
 ---
 
-Raylen Krouse is a senior student at the University of Oregon. When not 
-touring people around the Museum of Natural and Cultural History, 
+Raylen Krouse is a senior student at the University of Oregon and will 
+be graduating June 2026. When not touring people around the 
+Museum of Natural and Cultural History, 
 Raylen enjoys fishing, hiking, and playing guitar
 
 ## Education
