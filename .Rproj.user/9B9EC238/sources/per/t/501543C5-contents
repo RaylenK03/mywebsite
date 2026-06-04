@@ -2,13 +2,15 @@
 title: "Portfolio" 
 about:
   template: marquee  
-  image: Figure3_Seattle_Gi_Income.png
-  image-shape: rectangle  
+  
+execute:
+  echo: false
 ---
-
-About this site
+ 
+This portfolio showcases the median household income of the Seattle metropolitan area and the problems that occur. 
 
 ```{r setup, echo=FALSE}
+#| message: false
 #Install Packages
 
 # install.packages("tidycensus")
@@ -44,6 +46,8 @@ library(SpatialAcc)
 ```
 
 ```{r,  echo=FALSE} 
+#| message: false
+#| warning: false 
 seattle_cbsa <- core_based_statistical_areas(cb = TRUE, year = 2020) %>%
   filter(str_detect(NAME, "Seattle-Tacoma-Bellevue")) %>%
   st_transform(2285)   # Washington North (feet)

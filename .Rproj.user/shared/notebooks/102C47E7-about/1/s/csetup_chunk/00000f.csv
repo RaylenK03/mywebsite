@@ -1,3 +1,4 @@
+"0","#| message: false"
 "0","#Install Packages"
 "0",""
 "0","# install.packages(""tidycensus"")"
