@@ -1,9 +1,11 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "7dd994872167b96798b32583302caa08",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Portfolio\" \nabout:\n  template: marquee  \n  image: Figure3_Seattle_Gi_Income.png\n  image-shape: rectangle  \n---\n\nAbout this site\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n\n```\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.3     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors\nTo enable caching of data, set `options(tigris_use_cache = TRUE)`\nin your R script or .Rprofile.\n\nLinking to GEOS 3.14.1, GDAL 3.12.1, PROJ 9.7.1; sf_use_s2() is TRUE\n\nUsing the EPSG Dataset v10.019, a product of the International Association of Oil & Gas Producers. \nPlease view the terms of use at https://epsg.org/terms-of-use.html.\n\nUsage of the Mapbox APIs is governed by the Mapbox Terms of Service.\nPlease visit https://www.mapbox.com/legal/tos/ for more information.\n\nLoading required package: spData\n\n\nAttaching package: 'matrixStats'\n\n\nThe following object is masked from 'package:dplyr':\n\n    count\n```\n\n\n:::\n:::\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n\n```\nGetting data from the 2016-2020 5-year ACS\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning in poly2nb(stb_tracts, queen = TRUE): some observations have no neighbours;\nif this seems unexpected, try increasing the snap argument.\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning in poly2nb(stb_tracts, queen = TRUE): neighbour object has 4 sub-graphs;\nif this sub-graph count seems unexpected, try increasing the snap argument.\n```\n\n\n:::\n\n::: {.cell-output-display}\n![](about_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "mywebsite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: https://drive.google.com/file/d/1mSBSVsmbVeOt2c8a3uqBKh9ihzihgoW6/view
+        text: My CV
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual 
+
